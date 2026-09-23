@@ -1,23 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7B61FF,100:00C9A7&height=160&section=header&text=JMIN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20in%20progress&descAlignY=60&descSize=16"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5B4BFF,50:7B61FF,100:00C9A7&height=190&section=header&text=JMIN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ML%20ENGINEER%20%7C%20AI%20%7C%20MLOps&descAlignY=60&descSize=17">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:7B61FF,100:00A98F&height=190&section=header&text=JMIN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ML%20ENGINEER%20%7C%20AI%20%7C%20MLOps&descAlignY=60&descSize=17">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:7B61FF,100:00A98F&height=190&section=header&text=JMIN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ML%20ENGINEER%20%7C%20AI%20%7C%20MLOps&descAlignY=60&descSize=17" alt="JMIN - ML Engineer">
+</picture>
 
 <br>
 
-# `JMIN`
+# `jmin0727`
 
-### ML Engineer · AI · Machine Learning · MLOps
+### ML Engineer in progress
 
-<br>
-
-**Build. Debug. Deploy. Evolve.**
+**AI · Machine Learning · Deep Learning · Computer Vision · MLOps**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jmin0727)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![ML](https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge)]()
-[![MLOps](https://img.shields.io/badge/MLOps-00C9A7?style=for-the-badge)]()
+<a href="https://github.com/jmin0727">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/ML%20ENGINEERING-6D5DFB?style=flat-square&logoColor=white" alt="ML Engineering">
+&nbsp;
+<img src="https://img.shields.io/badge/MLOps-00A98F?style=flat-square&logoColor=white" alt="MLOps">
 
 </div>
 
@@ -27,41 +32,33 @@
 
 <div align="center">
 
-## `01` — ABOUT
+## `01` — WHO I AM
+
+### **Building AI systems beyond the notebook.**
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="55%" valign="middle">
+<td width="60%" valign="top">
 
-### 👋 Hello, I'm Jmin
+### 🧑‍💻 About Me
 
 I'm building my foundation as an **ML Engineer**.
 
-My interests span across the machine learning lifecycle — from understanding data and training models to deploying and improving AI systems.
+I’m interested in the full machine learning lifecycle:
+
+**Data → Model → Service → Production**
+
+I enjoy understanding not only **how to train a model**, but also how to make it reproducible, deployable, and maintainable.
 
 <br>
 
-```text
-Data
-  ↓
-Experiment
-  ↓
-Model
-  ↓
-Evaluate
-  ↓
-Deploy
-  ↓
-Monitor
-  ↓
-Improve
-```
+> **Learn deeply. Build deliberately. Improve continuously.**
 
 </td>
 
-<td width="45%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
 ### `FOCUS`
 
@@ -75,7 +72,7 @@ Improve
 
 ⚙️ **MLOps**
 
-☁️ **AI Engineering**
+🚀 **AI Engineering**
 
 </td>
 </tr>
@@ -87,78 +84,62 @@ Improve
 
 <div align="center">
 
-## `02` — TECH STACK
+## `02` — ENGINEERING MINDSET
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,opencv,git,github,docker,fastapi,linux&perline=6"/>
-
-<br><br>
-
-`Python` · `NumPy` · `Pandas` · `Scikit-learn`
-`PyTorch` · `TensorFlow` · `OpenCV`
-`Git` · `GitHub` · `Docker` · `FastAPI` · `Linux`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## `03` — ENGINEERING MINDSET
-
-</div>
-
-<table>
+<table align="center">
 <tr>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### `01`
 
-### 🔍
+🔍
 
-**Understand**
+### UNDERSTAND
 
-Problem & Data
+Problem
+Data
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### `02`
 
-### 🧪
+🧪
 
-**Experiment**
+### EXPERIMENT
 
-Train & Evaluate
+Train
+Evaluate
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### `03`
 
-### 🚀
+🚀
 
-**Deploy**
+### DEPLOY
 
-Model → Service
+Model
+Service
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### `04`
 
-### ⚙️
+⚙️
 
-**Improve**
+### IMPROVE
 
-Monitor & Iterate
+Monitor
+Iterate
 
 </td>
 
@@ -166,8 +147,6 @@ Monitor & Iterate
 </table>
 
 <br>
-
-<div align="center">
 
 ```text
 UNDERSTAND  →  EXPERIMENT  →  DEPLOY  →  IMPROVE
@@ -181,17 +160,25 @@ UNDERSTAND  →  EXPERIMENT  →  DEPLOY  →  IMPROVE
 
 <div align="center">
 
-## `04` — GITHUB ANALYTICS
+## `03` — TECH STACK
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jmin0727&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7B61FF&icon_color=00C9A7&text_color=C9D1D9&ring_color=7B61FF" width="49%"/>
+### Languages & Data
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmin0727&layout=compact&hide_border=true&bg_color=0D1117&title_color=7B61FF&text_color=C9D1D9" width="49%"/>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas&perline=6" alt="Python NumPy Pandas">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=jmin0727&hide_border=true&background=0D1117&ring=7B61FF&fire=00C9A7&currStreakLabel=7B61FF&sideLabels=C9D1D9&dates=8B949E" width="70%"/>
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=6" alt="Scikit-learn PyTorch TensorFlow OpenCV">
+
+<br><br>
+
+### Engineering & MLOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,linux&perline=6" alt="Git GitHub Docker FastAPI Linux">
 
 </div>
 
@@ -201,14 +188,115 @@ UNDERSTAND  →  EXPERIMENT  →  DEPLOY  →  IMPROVE
 
 <div align="center">
 
-## `05` — PROJECTS
+## `04` — ML LIFECYCLE
 
 <br>
 
-<table>
+<table align="center">
+<tr>
+<td align="center" width="14%">
+
+### 01
+
+**Problem**
+
+</td>
+
+<td align="center" width="14%">→</td>
+
+<td align="center" width="14%">
+
+### 02
+
+**Data**
+
+</td>
+
+<td align="center" width="14%">→</td>
+
+<td align="center" width="14%">
+
+### 03
+
+**Model**
+
+</td>
+
+<td align="center" width="14%">→</td>
+
+<td align="center" width="14%">
+
+### 04
+
+**Evaluate**
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="7" align="center">
+
+<br>
+
+⬇
+
+<br><br>
+
+### **Deploy → Monitor → Improve**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `05` — GITHUB SNAPSHOT
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jmin0727&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=8B7CFF&icon_color=00C9A7&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jmin0727&show_icons=true&hide_border=true&theme=default&bg_color=00000000&title_color=5B4BFF&icon_color=00A98F&text_color=24292F">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmin0727&show_icons=true&hide_border=true&theme=default&bg_color=00000000&title_color=5B4BFF&icon_color=00A98F&text_color=24292F" width="49%" alt="GitHub Stats">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmin0727&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=8B7CFF&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmin0727&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=5B4BFF&text_color=24292F">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmin0727&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=5B4BFF&text_color=24292F" width="49%" alt="Top Languages">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jmin0727&hide_border=true&background=00000000&ring=8B7CFF&fire=00C9A7&currStreakLabel=8B7CFF&sideLabels=C9D1D9&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jmin0727&hide_border=true&background=00000000&ring=5B4BFF&fire=00A98F&currStreakLabel=5B4BFF&sideLabels=24292F&dates=57606A">
+  <img src="https://streak-stats.demolab.com?user=jmin0727&hide_border=true&background=00000000&ring=5B4BFF&fire=00A98F&currStreakLabel=5B4BFF&sideLabels=24292F&dates=57606A" width="70%" alt="GitHub Contribution Streak">
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## `06` — PROJECTS
+
+<br>
+
+<table align="center">
 <tr>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 ### `01`
 
@@ -223,13 +311,17 @@ Visualization
 Feature Engineering
 Data Processing
 
+<br>
+
+`PROJECTS`
+
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 ### `02`
 
-## 🤖 ML
+## 🤖 MACHINE LEARNING
 
 **Data → Model**
 
@@ -240,13 +332,17 @@ Regression
 Optimization
 Ensemble
 
+<br>
+
+`PROJECTS`
+
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 ### `03`
 
-## 🧠 DL
+## 🧠 DEEP LEARNING
 
 **Model → Intelligence**
 
@@ -257,17 +353,21 @@ CNN
 Training
 Evaluation
 
+<br>
+
+`PROJECTS`
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 ### `04`
 
-## 👁️ CV
+## 👁️ COMPUTER VISION
 
 **Image → Understanding**
 
@@ -277,9 +377,13 @@ Classification
 Detection
 Image Processing
 
+<br>
+
+`PROJECTS`
+
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 ### `05`
 
@@ -289,15 +393,19 @@ Image Processing
 
 <br>
 
-Model Serving
+Serving
 API
 Docker
 CI/CD
 Monitoring
 
+<br>
+
+`PROJECTS`
+
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 ### `06`
 
@@ -312,6 +420,10 @@ Deployment
 Integration
 Optimization
 
+<br>
+
+`PROJECTS`
+
 </td>
 
 </tr>
@@ -325,11 +437,15 @@ Optimization
 
 <div align="center">
 
-## `06` — CONTRIBUTION
+## `07` — CONTRIBUTION
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jmin0727&bg_color=0D1117&color=C9D1D9&line=7B61FF&point=00C9A7&area=true&hide_border=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jmin0727&bg_color=00000000&color=C9D1D9&line=8B7CFF&point=00C9A7&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jmin0727&bg_color=00000000&color=24292F&line=5B4BFF&point=00A98F&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmin0727&bg_color=00000000&color=24292F&line=5B4BFF&point=00A98F&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
+</picture>
 
 </div>
 
@@ -339,42 +455,54 @@ Optimization
 
 <div align="center">
 
-## `07` — DEVELOPMENT PHILOSOPHY
+## `08` — DEVELOPMENT PHILOSOPHY
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
-### `LEARN`
+### 📖
 
-Understand the fundamentals.
+**LEARN**
 
-</td>
-
-<td align="center">
-
-### `BUILD`
-
-Turn ideas into code.
+Understand
+the fundamentals.
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### `BREAK`
+### 🔨
 
-Find what fails.
+**BUILD**
+
+Turn ideas
+into code.
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### `IMPROVE`
+### 🐛
 
-Make it better.
+**DEBUG**
+
+Find the
+actual problem.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**IMPROVE**
+
+Make it
+better.
 
 </td>
 
@@ -383,7 +511,9 @@ Make it better.
 
 <br>
 
-### `Don't just make it work. Understand why it works.`
+### *Don't just make it work.*
+
+### **Understand why it works.**
 
 </div>
 
@@ -393,22 +523,31 @@ Make it better.
 
 <div align="center">
 
-## `08` — CURRENTLY BUILDING
+## `09` — CURRENT DIRECTION
 
 <br>
 
 ```text
 AI / ML
-  ├── Machine Learning
-  ├── Deep Learning
-  ├── Computer Vision
-  └── MLOps
-
-                ↓
-
-        Production-minded
+   │
+   ├── Machine Learning
+   ├── Deep Learning
+   ├── Computer Vision
+   │
+   └── MLOps
+         │
+         ├── Serving
+         ├── Deployment
+         ├── Monitoring
+         └── Automation
+                 │
+                 ↓
           AI Engineering
 ```
+
+<br>
+
+**From experimentation to production.**
 
 </div>
 
@@ -418,12 +557,18 @@ AI / ML
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:7B61FF,100:6C63FF&height=100&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:7B61FF,100:5B4BFF&height=120&section=footer&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,50:6D5DFB,100:5B4BFF&height=120&section=footer&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,50:6D5DFB,100:5B4BFF&height=120&section=footer&animation=fadeIn" alt="Footer">
+</picture>
 
 ### `jmin0727`
 
 **Always learning. Always building.**
 
-[GitHub](https://github.com/jmin0727)
+<br>
+
+<a href="https://github.com/jmin0727">GitHub</a>
 
 </div>
