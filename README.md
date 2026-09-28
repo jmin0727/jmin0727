@@ -16,22 +16,10 @@
 
 <br>
 
-<a href="https://github.com/jmin0727">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"
-    alt="GitHub"
-  >
-</a>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/ML%20ENGINEERING-6D5DFB?style=flat-square&logoColor=white"
-  alt="ML Engineering"
->
-&nbsp;
-<img
-  src="https://img.shields.io/badge/MLOps-00BFA5?style=flat-square&logoColor=white"
-  alt="MLOps"
->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jmin0727)
+
+![ML Engineering](https://img.shields.io/badge/ML%20ENGINEERING-6D5DFB?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-00C9A7?style=flat-square)
 
 </div>
 
@@ -237,28 +225,19 @@ UNDERSTAND  →  EXPERIMENT  →  DEPLOY  →  IMPROVE
 
 ### Languages & Data
 
-<img
-  src="https://skillicons.dev/icons?i=python,numpy,pandas&perline=6"
-  alt="Python NumPy Pandas"
->
+![Python NumPy Pandas](https://skillicons.dev/icons?i=python,numpy,pandas&perline=6)
 
 <br><br>
 
 ### AI / Machine Learning
 
-<img
-  src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=6"
-  alt="Scikit-learn PyTorch TensorFlow OpenCV"
->
+![Scikit-learn PyTorch TensorFlow OpenCV](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=6)
 
 <br><br>
 
 ### Engineering & MLOps
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,docker,fastapi,linux&perline=6"
-  alt="Git GitHub Docker FastAPI Linux"
->
+![Git GitHub Docker FastAPI Linux](https://skillicons.dev/icons?i=git,github,docker,fastapi,linux&perline=6)
 
 <br><br>
 
