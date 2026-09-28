@@ -58,11 +58,7 @@ I enjoy understanding not only **how to train a model**, but also how to make it
 
 <td width="40%" valign="middle" align="center">
 
-<img
-  src="./assets/jmin-character.png"
-  width="115"
-  alt="JMIN character"
->
+<img src="./assets/jmin-character.png" width="115" alt="JMIN character">
 
 <br>
 
