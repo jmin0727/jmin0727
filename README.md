@@ -101,10 +101,7 @@ I enjoy understanding not only **how to train a model**, but also how to make it
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5DFB,50:7B61FF,100:00C9A7&height=4&section=header&width=70%"
-  alt="Purple mint neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 </div>
 
@@ -218,10 +215,7 @@ Iterate
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%"
-  alt="Purple mint blue neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 <br><br>
 
@@ -268,10 +262,7 @@ UNDERSTAND  →  EXPERIMENT  →  DEPLOY  →  IMPROVE
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:4F7CFF,100:7B61FF&height=4&section=header&width=65%"
-  alt="Mint blue purple neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 </div>
 
@@ -359,10 +350,7 @@ UNDERSTAND  →  EXPERIMENT  →  DEPLOY  →  IMPROVE
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:5B4BFF,100:4F7CFF&height=4&section=header&width=60%"
-  alt="Mint purple blue neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 </div>
 
@@ -428,10 +416,7 @@ UNDERSTAND  →  EXPERIMENT  →  DEPLOY  →  IMPROVE
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:5B4BFF,50:00C9A7,100:4F7CFF&height=4&section=header&width=70%"
-  alt="Purple mint blue neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 </div>
 
@@ -583,10 +568,7 @@ Optimization
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00C9A7,100:4F7CFF&height=4&section=header&width=72%"
-  alt="Purple mint blue neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 </div>
 
@@ -618,10 +600,7 @@ Optimization
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:7B61FF,100:4F7CFF&height=4&section=header&width=60%"
-  alt="Mint purple blue neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 </div>
 
@@ -703,10 +682,7 @@ better.
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00C9A7,100:4F7CFF&height=4&section=header&width=55%"
-  alt="Purple mint blue neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 <br>
 
@@ -750,10 +726,7 @@ AI / ML
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:4F7CFF,50:7B61FF,100:00C9A7&height=4&section=header&width=55%"
-  alt="Blue purple mint neon accent"
->
+![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 
 </div>
 
@@ -772,10 +745,7 @@ AI / ML
     media="(prefers-color-scheme: light)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9BEBDD,45:D7F9F1,75:F1EEFF,100:FFFFFF&height=120&section=footer&animation=fadeIn"
   >
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:9BEBDD,45:D7F9F1,75:F1EEFF,100:FFFFFF&height=120&section=footer&animation=fadeIn"
-    alt="Footer"
-  >
+  ![Purple mint blue neon accent](https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,50:00E5B0,100:4F7CFF&height=4&section=header&width=55%)
 </picture>
 
 ### `jmin0727`
